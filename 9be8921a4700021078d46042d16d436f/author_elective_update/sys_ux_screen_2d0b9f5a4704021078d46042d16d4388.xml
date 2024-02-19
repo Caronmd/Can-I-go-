@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Can I go portal Config">3f23db524704021078d46042d16d434c</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Order success">d10bdb1a4704021078d46042d16d4300</macroponent>
+        <macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Order success Default copy</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Order success">c833db5257040210ca64cea273bb1ab5</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:10:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d0b9f5a4704021078d46042d16d4388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order success Default copy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_update_name>sys_ux_screen_2d0b9f5a4704021078d46042d16d4388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:10:56</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=2d0b9f5a4704021078d46042d16d4388"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Can I go?">9be8921a4700021078d46042d16d436f</application>
+        <file_path/>
+        <instance_id>00dd5e25db7a319439639027c59619f0</instance_id>
+        <instance_name>dev227982</instance_name>
+        <name>sys_ux_screen_2d0b9f5a4704021078d46042d16d4388</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Can I go portal Config">3f23db524704021078d46042d16d434c</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Order success">d10bdb1a4704021078d46042d16d4300</macroponent><macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Order success Default copy</name><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Order success">c833db5257040210ca64cea273bb1ab5</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-01 20:10:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2d0b9f5a4704021078d46042d16d4388</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Order success Default copy</sys_name><sys_overrides/><sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package><sys_policy/><sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope><sys_update_name>sys_ux_screen_2d0b9f5a4704021078d46042d16d4388</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-01 20:10:56</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=2d0b9f5a4704021078d46042d16d4388"/></record_update>]]></payload>
+        <payload_hash>-1551199160</payload_hash>
+        <record_name>Order success Default copy</record_name>
+        <reverted_from/>
+        <source>9be8921a4700021078d46042d16d4371</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:10:56</sys_created_on>
+        <sys_id>e10b9f5a4704021078d46042d16d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d664bbdc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:10:56</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>290b9f5aed040210b1ed054baf4b148a</update_guid>
+        <update_guid_history>290b9f5aed040210b1ed054baf4b148a:-1551199160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:28:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>04de042dd47c46de95a2a72d29718e24</sys_id>
+        <sys_metadata>2d0b9f5a4704021078d46042d16d4388</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order success Default copy</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_scope_delete display_value="">34b5dc611fac4c76ab021fbe9f7cd809</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_2d0b9f5a4704021078d46042d16d4388</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_2d0b9f5a4704021078d46042d16d4388">e10b9f5a4704021078d46042d16d438b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:28:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

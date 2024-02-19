@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">4c33db52b9040210544d12c56e11b1a7</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">0c33db52570402104b4e39ae61f4b0a2</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-01 19:36:44</sys_created_on>
+        <sys_id>c033db52d404021037e1d5b3af6e63a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_c033db52d404021037e1d5b3af6e63a2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-01 19:36:44</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

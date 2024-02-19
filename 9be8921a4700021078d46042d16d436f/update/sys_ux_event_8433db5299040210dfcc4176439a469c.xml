@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_0433db5244040210f9c7032fcc964c9b</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-01 19:36:44</sys_created_on>
+        <sys_id>8433db5299040210dfcc4176439a469c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_update_name>sys_ux_event_8433db5299040210dfcc4176439a469c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-01 19:36:44</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=8433db5299040210dfcc4176439a469c"/>
+</record_update>

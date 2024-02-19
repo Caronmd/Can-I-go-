@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="do_you_need_money" label="Do you need money" language="en" table="x_919555_can_i_go_go_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>do_you_need_money</element>
+            <help/>
+            <hint/>
+            <label>Do you need money</label>
+            <language>en</language>
+            <name>x_919555_can_i_go_go_request</name>
+            <plural>Do you need moneys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:19:42</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Do you need money</sys_name>
+            <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+            <sys_update_name>sys_documentation_x_919555_can_i_go_go_request_do_you_need_money_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:21:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

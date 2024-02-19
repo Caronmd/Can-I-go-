@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_919555_can_i_go_go_request</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 15:53:34</sys_created_on>
+        <sys_id>a310e2de4700021078d46042d16d436d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919555_can_i_go_go_request</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_update_name>sys_security_acl_a310e2de4700021078d46042d16d436d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 15:53:34</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Can I go?">9be8921a4700021078d46042d16d436f</application>
+        <file_path/>
+        <instance_id>00dd5e25db7a319439639027c59619f0</instance_id>
+        <instance_name>dev227982</instance_name>
+        <name>sys_security_acl_a310e2de4700021078d46042d16d436d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_919555_can_i_go_go_request</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-01 15:53:34</sys_created_on><sys_id>a310e2de4700021078d46042d16d436d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_919555_can_i_go_go_request</sys_name><sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package><sys_policy/><sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope><sys_update_name>sys_security_acl_a310e2de4700021078d46042d16d436d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-01 15:53:34</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1819567721</payload_hash>
+        <record_name>x_919555_can_i_go_go_request</record_name>
+        <reverted_from/>
+        <source>9be8921a4700021078d46042d16d4371</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 15:53:34</sys_created_on>
+        <sys_id>a710e2de4700021078d46042d16d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d65601f080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 15:53:34</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>eb10e2dea100021027d808db6436536e</update_guid>
+        <update_guid_history>eb10e2dea100021027d808db6436536e:1819567721</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 17:40:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>04375389e54d4c50877c2eb72100ff10</sys_id>
+        <sys_metadata>a310e2de4700021078d46042d16d436d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919555_can_i_go_go_request</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_parent display_value="">5f006e9e4700021078d46042d16d43a3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_scope_delete display_value="">34b5dc611fac4c76ab021fbe9f7cd809</sys_scope_delete>
+        <sys_update_name>sys_security_acl_a310e2de4700021078d46042d16d436d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_a310e2de4700021078d46042d16d436d">a710e2de4700021078d46042d16d436f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 17:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

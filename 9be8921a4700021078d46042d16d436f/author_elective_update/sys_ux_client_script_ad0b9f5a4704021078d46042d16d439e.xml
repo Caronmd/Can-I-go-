@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Order success Default copy">d10bdb1a4704021078d46042d16d4300</macroponent>
+        <name>Refresh submitted screen</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    let {
+        table,
+        sysId,
+        number
+    } = api.context.props;
+    if(table !== "sc_request"){
+        api.setState("successNumber",number);
+        api.setState("successSysId",sysId);
+    }else{
+        api.setState("requestSysId",sysId);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:10:56</sys_created_on>
+        <sys_id>ad0b9f5a4704021078d46042d16d439e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refresh submitted screen</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_update_name>sys_ux_client_script_ad0b9f5a4704021078d46042d16d439e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:10:56</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Can I go?">9be8921a4700021078d46042d16d436f</application>
+        <file_path/>
+        <instance_id>00dd5e25db7a319439639027c59619f0</instance_id>
+        <instance_name>dev227982</instance_name>
+        <name>sys_ux_client_script_ad0b9f5a4704021078d46042d16d439e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Order success Default copy"&gt;d10bdb1a4704021078d46042d16d4300&lt;/macroponent&gt;&lt;name&gt;Refresh submitted screen&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+async function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    let {
+        table,
+        sysId,
+        number
+    } = api.context.props;
+    if(table !== "sc_request"){
+        api.setState("successNumber",number);
+        api.setState("successSysId",sysId);
+    }else{
+        api.setState("requestSysId",sysId);
+    }
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-01 20:10:56&lt;/sys_created_on&gt;&lt;sys_id&gt;ad0b9f5a4704021078d46042d16d439e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Refresh submitted screen&lt;/sys_name&gt;&lt;sys_package display_value="Can I go?" source="x_919555_can_i_go"&gt;9be8921a4700021078d46042d16d436f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Can I go?"&gt;9be8921a4700021078d46042d16d436f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_ad0b9f5a4704021078d46042d16d439e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-01 20:10:56&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;default&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1671977060</payload_hash>
+        <record_name>Refresh submitted screen</record_name>
+        <reverted_from/>
+        <source>9be8921a4700021078d46042d16d4371</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:10:56</sys_created_on>
+        <sys_id>a10b9f5a4704021078d46042d16d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d664bc0410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:10:56</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>690b9f5a7b040210817ef12e4f3786cb</update_guid>
+        <update_guid_history>690b9f5a7b040210817ef12e4f3786cb:-1671977060,a10b9f5ae8040210c7788c0951a4f8a2:-1079757814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:28:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>6c09b5f80fea4746a513def6e087bc24</sys_id>
+        <sys_metadata>ad0b9f5a4704021078d46042d16d439e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refresh submitted screen</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_scope_delete display_value="">34b5dc611fac4c76ab021fbe9f7cd809</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_ad0b9f5a4704021078d46042d16d439e</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_ad0b9f5a4704021078d46042d16d439e">a10b9f5a4704021078d46042d16d43cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:28:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

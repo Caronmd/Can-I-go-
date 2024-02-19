@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 15:53:34</sys_created_on>
+        <sys_id>1b10e2de4700021078d46042d16d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919555_can_i_go_go_request.x_919555_can_i_go.requestor</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_security_acl display_value="x_919555_can_i_go_go_request">9310e2de4700021078d46042d16d431f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1b10e2de4700021078d46042d16d4321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 15:53:34</sys_updated_on>
+        <sys_user_role display_value="x_919555_can_i_go.requestor" name="x_919555_can_i_go.requestor">27e8921a4700021078d46042d16d437a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Can I go?">9be8921a4700021078d46042d16d436f</application>
+        <file_path/>
+        <instance_id>00dd5e25db7a319439639027c59619f0</instance_id>
+        <instance_name>dev227982</instance_name>
+        <name>sys_security_acl_role_1b10e2de4700021078d46042d16d4321</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-01 15:53:34</sys_created_on><sys_id>1b10e2de4700021078d46042d16d4321</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_919555_can_i_go_go_request.x_919555_can_i_go.requestor</sys_name><sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package><sys_policy/><sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope><sys_security_acl display_value="x_919555_can_i_go_go_request">9310e2de4700021078d46042d16d431f</sys_security_acl><sys_update_name>sys_security_acl_role_1b10e2de4700021078d46042d16d4321</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-01 15:53:34</sys_updated_on><sys_user_role display_value="x_919555_can_i_go.requestor" name="x_919555_can_i_go.requestor">27e8921a4700021078d46042d16d437a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-696360104</payload_hash>
+        <record_name>x_919555_can_i_go_go_request.x_919555_can_i_go.requestor</record_name>
+        <reverted_from/>
+        <source>9be8921a4700021078d46042d16d4371</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 15:53:34</sys_created_on>
+        <sys_id>1f10e2de4700021078d46042d16d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d65601c820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 15:53:34</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5310e2de8a000210541c3ed9ffe5e723</update_guid>
+        <update_guid_history>5310e2de8a000210541c3ed9ffe5e723:-696360104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_919555_can_i_go_go_request.x_919555_can_i_go.requestor">ec9872964780021078d46042d16d43d2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 17:40:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8d14f696b466456ea51fdedfda69b5e4</sys_id>
+        <sys_metadata>1b10e2de4700021078d46042d16d4321</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919555_can_i_go_go_request.x_919555_can_i_go.requestor</sys_name>
+        <sys_package display_value="Can I go?" source="x_919555_can_i_go">9be8921a4700021078d46042d16d436f</sys_package>
+        <sys_parent display_value="">9310e2de4700021078d46042d16d431f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Can I go?">9be8921a4700021078d46042d16d436f</sys_scope>
+        <sys_scope_delete display_value="">34b5dc611fac4c76ab021fbe9f7cd809</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_1b10e2de4700021078d46042d16d4321</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_1b10e2de4700021078d46042d16d4321">1f10e2de4700021078d46042d16d4323</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 17:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
